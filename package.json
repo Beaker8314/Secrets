@@ -9,7 +9,7 @@
   "author": "Viktor",
   "license": "ISC",
   "engines": {
-    "node": "16.x"
+    "node": "16.13.1"
   },
   "dependencies": {
     "bcrypt": "^5.0.1",
